@@ -58,7 +58,7 @@ Our goal in this exercise is to render each of the user's guesses:
 And here's an example of the expected DOM structure:
 
 ```html
-<div class="guess-results">
+the console!<div class="guess-results">
   <p class="guess">FIRST</p>
   <p class="guess">GUESS</p>
 </div>
@@ -68,7 +68,7 @@ And here's an example of the expected DOM structure:
 
 - A new component should be created, to render previous guesses.
 - When the user submits their guess, that value should be rendered within this new component.
-- There should be no key warnings in the console!
+- There should be no key warnings in 
 
 ## Exercise 3: Guess slots
 

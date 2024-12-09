@@ -36,8 +36,9 @@ button {
   border: none;
   background: transparent;
   cursor: pointer;
-  text-align: left;
+  text-align: center;
   color: inherit;
+  border: 2px solid lightblue;
 }
 
 .wrapper {
